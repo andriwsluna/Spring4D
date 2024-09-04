@@ -1,0 +1,11 @@
+$env:BDS='C:\Program Files (x86)\Embarcadero\Studio\23.0'
+$env:BDSLIB='C:\Program Files (x86)\Embarcadero\Studio\23.0\Lib'
+$env:BDSINCLUDE='C:\Program Files (x86)\Embarcadero\Studio\23.0\include'
+$env:BDSCOMMONDIR='C:\Users\Public\Documents\Embarcadero\Studio\23.0'
+$env:FrameworkDir='C:\Windows\Microsoft.NET\Framework\v4.0.30319'
+$env:FrameworkVersion='v4.5'
+$env:FrameworkSDKDir=''
+$env:PATH="${env:FrameworkDir};${env:FrameworkSDKDir};C:\Program Files (x86)\Embarcadero\Studio\23.0\bin;C:\Program Files (x86)\Embarcadero\Studio\23.0\bin64;C:\Program Files (x86)\Embarcadero\Studio\23.0\cmake;${env:PATH}"
+$env:LANGDIR='EN'
+$env:PLATFORM=''
+$env:PlatformSDK=''
