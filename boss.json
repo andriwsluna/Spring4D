@@ -2,15 +2,8 @@
 	"name": "IOB.Spring4D",
 	"description": "",
 	"version": "1.0.1",
-	"homepage": "https://git-codecommit.us-east-2.amazonaws.com/v1/repos/IOB.Spring4D",
-	"mainsrc": "./lib",
-	"browsingpath": "./repo/Source",
-	"projects": [
-		"repo/Packages/Delphi11/Spring.Base.dproj",
-		"repo/Packages/Delphi11/Spring.Core.dproj",
-		"repo/Packages/Delphi11/Spring.Data.dproj",
-		"repo/Packages/Delphi11/Spring.Extensions.dproj",
-		"repo/Packages/Delphi11/Spring.Persistence.dproj"
-	],
+	"homepage": "https://github.com/andriwsluna/Spring4D",
+	"mainsrc": "./repo/Source",
+	"browsingpath": "",
 	"dependencies": {}
 }
